@@ -1,1 +1,1 @@
-# Python-based_ML_for_Evaluating_Dietary_Adherence_during_COVID
+# ML_project: Evaluating_Dietary_Adherence_during_COVID
