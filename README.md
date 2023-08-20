@@ -1,1 +1,1 @@
-# ML_project: Evaluating_Dietary_Adherence_during_COVID
+# ML project: Evaluating Dietary Adherence during COVID
